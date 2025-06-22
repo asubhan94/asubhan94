@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdus Subhan
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Github
 
 <!---
